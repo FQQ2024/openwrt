@@ -3,4 +3,4 @@ src-git luci https://github.com/FQQ2024/luci
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://github.com/coolsnowwolf/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
+src-git small https://github.com/FQQ2024/small
